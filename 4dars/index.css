@@ -1,0 +1,7 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/71/ae/57/71ae5725de1a9b1d1da8f5044420427b.gif");
+}
+body > a{
+    border-radius: 6.5,7.5em;
+    box-sizing: border-box;
+}
